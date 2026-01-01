@@ -130,11 +130,11 @@
 #   print("impossible") 
 
 
-t=int(input()) 
-for _ in range(t):
-  k,x = map(int,input().split()) 
+# t=int(input()) 
+# for _ in range(t):
+#   k,x = map(int,input().split()) 
 
-  while k>0:
-    x=x*2 
-    k-=1 
-  print(x)
+#   while k>0:
+#     x=x*2 
+#     k-=1 
+#   print(x)
